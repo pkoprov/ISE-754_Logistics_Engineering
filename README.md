@@ -1,2 +1,2 @@
-# ISE-754_Logistics_Engineering
+# NCSU ISE 754 Logistics_Engineering 2020
 Homework and Midterms
